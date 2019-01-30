@@ -10,14 +10,18 @@ I' am a Full Stack Developer working in Zurich, Switzerland but I was born in It
 I have 15+ years experience in the web technologies and I love JavaScript and HTML.
 
 I'm @kasuken on twitter.
+
 I'm @kasuken on instagram.
+
 I'm @kasuken on twitch.
+
 I'm Emanuele in the real life.
 
 I live to learn every day and share what I have learned.
 
-
-![](kasuken.png)
+<center>
+<img src="kasuken.png">
+<center>
 
 ---
 
