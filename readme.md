@@ -16,9 +16,8 @@ I'm Emanuele in the real life.
 
 I live to learn every day and share what I have learned.
 
-<center>
+
 ![](kasuken.png)
-</center>
 
 ---
 
