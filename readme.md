@@ -17,7 +17,13 @@ I'm @kasuken on twitch.
 
 I'm Emanuele in the real life.
 
-I live to learn every day and share what I have learned.
+---
+
+I have a blog in English (https://dev.to/kasuken) and one in Italian (https://www.emanuelebartolesi.com)
+
+---
+
+### I live to learn every day and share what I have learned.
 
 <div align="center">
 <img src="kasuken.png">
